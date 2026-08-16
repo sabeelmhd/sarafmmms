@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java Microservices | AI/ML Enthusiast</h3>
 
 <p align="center">
-Backend Engineer with 3+ years building fintech microservices and APIs.
+Backend and Full Stack Engineer with 5+ years building fintech microservices and APIs.
 Currently expanding into AI/ML, data science, and generative AI systems.
 </p>
 
@@ -10,7 +10,7 @@ Currently expanding into AI/ML, data science, and generative AI systems.
 
 # 👨‍💻 About Me
 
-• Software Engineer with **3+ years experience in fintech systems**
+• Software Engineer with **4 years experience in fintech systems**
 
 • Maintained **9+ Spring Boot microservices**
 
