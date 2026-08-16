@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java Microservices | AI/ML Enthusiast</h3>
 
 <p align="center">
-Backend Engineer with 5+ years building fintech microservices and APIs.
+Backend and Full stack Engineer with 5+ years building fintech microservices and APIs.
 Currently expanding into AI/ML, data science, and generative AI systems.
 </p>
 
